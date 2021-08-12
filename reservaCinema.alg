@@ -21,7 +21,7 @@ inicio
          se (cadeiras[lugar] = "") entao
             cadeiras[lugar] <- "X"
             escreval ("LUGAR RESERVADO!")
-         senao
+         Senao
             escreval ("LUGAR OCUPADO :(")
          fimse
          escreva ("QUER RESERVAR OUTRO? [S/N] ")
