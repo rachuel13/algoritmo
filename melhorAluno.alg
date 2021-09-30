@@ -1,8 +1,5 @@
-algoritmo "semnome"
-// Função :
-// Autor :
-// Data : 07/05/2021
-// Seção de Declarações 
+algoritmo "melhorAluno"
+
 var
   quantidadeAlunos, contador: inteiro
   aluno, melhorAluno: caractere

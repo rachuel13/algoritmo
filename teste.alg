@@ -1,4 +1,4 @@
-algoritmo "vitoriaGostosa"
+algoritmo "teste"
 
 var
      n1, n2: inteiro

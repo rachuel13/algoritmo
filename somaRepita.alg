@@ -1,4 +1,4 @@
-algoritmo "semnome"
+algoritmo "somaRepita"
 
 var
    numero, soma: inteiro

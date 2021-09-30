@@ -1,4 +1,4 @@
-algoritmo "contageminteligente"
+algoritmo "contagemInteligente"
 
 var
    comeco, fim, contador: inteiro
