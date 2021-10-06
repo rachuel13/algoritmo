@@ -1,1 +1,3 @@
-# Exercícios de lógica de programação 
+# Lógica de programação
+
+Este repositório armazena  os exercícios do curso de algoritmo.
